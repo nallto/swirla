@@ -1,0 +1,21 @@
+{
+  "name": "swirla",
+  "displayName": "swirla",
+  "description": "swirla color theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "swirla",
+        "uiTheme": "vs-dark",
+        "path": "./themes/swirla-color-theme.json"
+      }
+    ]
+  }
+}
