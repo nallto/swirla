@@ -1,18 +1,35 @@
 {
   "name": "swirla",
-  "displayName": "swirla",
-  "description": "swirla color theme",
-  "version": "0.0.1",
+  "displayName": "Swirla",
+  "description": "Swirla color theme",
+  "version": "0.1.0",
+  "publisher": "nallto",
+  "author": {
+    "name": "nallto"
+  },
   "engines": {
     "vscode": "^1.106.1"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#EA76A0",
+    "theme": "dark"
+  },
+  "license": "SEE LICENSE",
+  "bugs": {
+    "url": "https://github.com/nallto/swirla/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nallto/swirla"
+  },
   "contributes": {
     "themes": [
       {
-        "label": "swirla",
+        "label": "Swirla",
         "uiTheme": "vs-dark",
         "path": "./themes/swirla-color-theme.json"
       }
