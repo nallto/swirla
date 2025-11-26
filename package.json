@@ -2,13 +2,13 @@
   "name": "swirla",
   "displayName": "Swirla",
   "description": "Swirla color theme",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "nallto",
   "author": {
     "name": "nallto"
   },
   "engines": {
-    "vscode": "^1.106.1"
+    "vscode": "^1.60.0"
   },
   "categories": [
     "Themes"
